@@ -10,7 +10,7 @@ import Tasks from './components/Tasks'
 function App() {
   const [isShow, setIsShow] = useState(false)
   const [tasks, setTasks] = useState([])
-  const API_URL = 'http://192.168.1.5:3000'
+  const API_URL = 'http://localhost:3000'
 
   useEffect(() => {
     const fetchTasks = async () => {
