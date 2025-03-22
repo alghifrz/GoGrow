@@ -71,6 +71,12 @@ body {
   justify-content: space-between;
 }
 
+.task p {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .add-form {
   margin-bottom: 40px;
 }
@@ -80,7 +86,9 @@ body {
 }
 
 .form-control label {
-  display: block;
+  display: flex;
+  /* align-items: center; */
+  /* justify-content: space-between; */
 }
 
 .form-control input {
