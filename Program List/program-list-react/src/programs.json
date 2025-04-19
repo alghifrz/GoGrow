@@ -1,0 +1,134 @@
+{
+  "programs": [
+    {
+      "id": "1",
+      "title": "React JS Fundamental",
+      "description": "Learn the core concepts of React including components, props, state, and hooks. Build your first React application and understand the virtual DOM.",
+      "start": "2025-06-20",
+      "duration": "3 weeks",
+      "mentor": {
+        "name": "Aidityas Adhakim",
+        "about": "An expert programmer with 8+ years of experience in frontend development and 5 years teaching React frameworks.",
+        "email": "aidityas@gogrow.id",
+        "phone": "+6281112345671"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Advanced JavaScript Mastery",
+      "description": "Deep dive into JavaScript's advanced features including closures, promises, async/await, and functional programming patterns.",
+      "duration": "4 weeks",
+      "start": "2025-07-15",
+      "mentor": {
+        "name": "Farhan Dwi Setiawan",
+        "about": "JavaScript specialist with experience at top tech companies and author of multiple programming books.",
+        "email": "farhan@gogrow.id",
+        "phone": "+6281112345673"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Full Stack Development Bootcamp",
+      "description": "Comprehensive program covering both frontend and backend development using MERN stack (MongoDB, Express, React, Node.js).",
+      "start": "2025-08-01",
+      "duration": "Less than 6 months",
+      "mentor": {
+        "name": "Diana Putri",
+        "about": "Full stack developer with 10+ years experience building scalable applications for startups and enterprises.",
+        "email": "diana@gogrow.id",
+        "phone": "+6281112345673"
+      }
+    },
+    {
+      "id": "4",
+      "title": "UI/UX Design Principles",
+      "description": "Learn the fundamentals of user interface and user experience design. Create wireframes, prototypes and understand user research methods.",
+      "start": "2025-09-12",
+      "duration": "Less than 6 months",
+      "mentor": {
+        "name": "Farhan Ahmad",
+        "about": "Award-winning UI/UX designer who has worked with global brands to create intuitive and beautiful digital experiences.",
+        "email": "farhan.ahmad@gogrow.id",
+        "phone": "+6281112345674"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Data Science Essentials",
+      "description": "Introduction to data analysis, visualization, and machine learning using Python, pandas, and scikit-learn.",
+      "start": "2025-10-05",
+      "duration": "Less than 6 months",
+      "mentor": {
+        "name": "Grace Tanoto",
+        "about": "Data scientist with expertise in predictive modeling and data analysis with a PhD in Computer Science.",
+        "email": "grace@gogrow.id",
+        "phone": "+6281112345675"
+      }
+    },
+    {
+      "id": "6",
+      "title": "DevOps and CI/CD Pipeline",
+      "description": "Master continuous integration, continuous deployment, and infrastructure as code using Docker, Kubernetes, and Jenkins.",
+      "start": "2025-11-15",
+      "duration": "4 weeks",
+      "mentor": {
+        "name": "Hendro Wijaya",
+        "about": "DevOps engineer with extensive experience implementing CI/CD pipelines for large-scale enterprise applications.",
+        "email": "hendro@gogrow.id",
+        "phone": "+6281112345676"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Mobile App Development with Flutter",
+      "description": "Create cross-platform mobile applications for iOS and Android using Google's Flutter framework and Dart programming language.",
+      "start": "2025-12-03",
+      "duration": "Less than 6 months",
+      "mentor": {
+        "name": "Indra Kusuma",
+        "about": "Mobile app developer who has published over 20 apps with millions of downloads on both App Store and Google Play.",
+        "email": "indra@gogrow.id",
+        "phone": "+6281112345677"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Cybersecurity Fundamentals",
+      "description": "Learn about common security threats, encryption, secure coding practices, and how to protect applications from attacks.",
+      "start": "2026-01-10",
+      "duration": "Less than 6 months",
+      "mentor": {
+        "name": "Jessica Anggita",
+        "about": "Certified ethical hacker and security consultant who has helped secure systems for banking and government institutions.",
+        "email": "jessica@gogrow.id",
+        "phone": "+6281112345678"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Cloud Computing with AWS",
+      "description": "Learn to design, deploy and manage applications on Amazon Web Services including EC2, S3, Lambda, and DynamoDB.",
+      "start": "2026-02-20",
+      "duration": "Less than 6 months",
+      "mentor": {
+        "name": "Kevin Hartanto",
+        "about": "AWS certified solutions architect with experience migrating enterprise applications to cloud infrastructure.",
+        "email": "kevin@gogrow.id",
+        "phone": "+6281112345679"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Blockchain Development",
+      "description": "Introduction to blockchain technology and smart contract development using Ethereum and Solidity programming language.",
+      "start": "2026-03-15",
+      "duration": "Less than 6 months",
+      "mentor": {
+        "name": "Linda Suryani",
+        "about": "Blockchain specialist who has worked on multiple DeFi projects and contributed to open-source blockchain protocols.",
+        "email": "linda@gogrow.id",
+        "phone": "+6281112345680"
+      }
+    }
+  ]
+}
