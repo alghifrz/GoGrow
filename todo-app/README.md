@@ -1,12 +1,25 @@
-# React + Vite
+# Todo App – GoGrow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplikasi Todo sederhana berbasis React dan Vite yang memungkinkan pengguna untuk mengelola daftar tugas harian dengan antarmuka yang ringan dan responsif.
 
-Currently, two official plugins are available:
+## 🧰 Teknologi yang Digunakan
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React** – Library JavaScript untuk membangun antarmuka pengguna.
+- **Vite** – Build tool modern untuk pengembangan frontend yang cepat.
+- **ESLint** – Linter untuk menjaga kualitas kode.
+- **JSON Server** – Backend mock untuk penyimpanan data lokal.
 
-## Expanding the ESLint configuration
+## 📦 Instalasi
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di lingkungan lokal Anda:
+
+```bash
+# 1. Kloning repositori
+git clone https://github.com/alghifrz/GoGrow.git
+cd GoGrow/todo-app
+
+# 2. Instal dependensi
+npm install
+
+# 3. Jalankan aplikasi
+npm run dev
