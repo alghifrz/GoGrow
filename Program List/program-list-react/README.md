@@ -1,12 +1,57 @@
-# React + Vite
+# GoGrow - Program List (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ini adalah repositori **Program List** dari proyek **GoGrow**, dibangun menggunakan React.js. Aplikasi ini dirancang untuk menampilkan daftar program yang tersedia di platform GoGrow.
 
-Currently, two official plugins are available:
+## 🚀 Fitur
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Menampilkan daftar program dalam bentuk kartu
+- Navigasi antar halaman
+- Responsive design
+- Menggunakan React Router untuk routing
+- Komponen modular dan terstruktur
 
-## Expanding the ESLint configuration
+## 📁 Struktur Folder
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+\`\`\`
+Program List/
+├── public/
+│   └── index.html
+├── src/
+│   ├── assets/           # Gambar dan aset statis lainnya
+│   ├── components/       # Komponen reusable seperti Card, Navbar, dsb
+│   ├── pages/            # Halaman-halaman utama seperti Home
+│   ├── App.jsx           # Komponen utama aplikasi
+│   ├── main.jsx          # Entry point aplikasi
+│   └── index.css         # Styling global
+├── package.json
+└── vite.config.js
+\`\`\`
+
+## 🛠️ Teknologi yang Digunakan
+
+- [React.js](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [React Router DOM](https://reactrouter.com/)
+- CSS
+
+## 🧑‍💻 Cara Menjalankan
+
+Pastikan kamu sudah meng-install **Node.js** dan **npm**.
+
+\`\`\`bash
+git clone https://github.com/alghifrz/GoGrow.git
+cd GoGrow/Program\ List/program-list-react
+npm install
+npm run dev
+\`\`\`
+
+Aplikasi akan berjalan di \`http://localhost:5173/\` secara default.
+
+## 📸 Tampilan
+
+> *(Tambahkan screenshot di sini jika ada)*
+
+## 📄 Lisensi
+
+Repositori ini berada di bawah lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan.
+EOF
