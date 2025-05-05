@@ -43,13 +43,17 @@ git clone https://github.com/alghifrz/GoGrow.git
 cd GoGrow/Program\ List/program-list-react
 npm install
 npm run dev
+npm run serve (untuk data json server)
 \`\`\`
 
-Aplikasi akan berjalan di \`http://localhost:5173/\` secara default.
+Aplikasi akan berjalan di \`http://localhost:3000/\` secara default.
 
 ## 📸 Tampilan
 
-> *(Tambahkan screenshot di sini jika ada)*
+![Preview Program List](public/1.png)
+![Preview Program List](public/2.png)
+![Preview Program List](public/3.png)
+![Preview Program List](public/4.png)
 
 ## 📄 Lisensi
 
